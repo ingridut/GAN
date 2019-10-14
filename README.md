@@ -4,6 +4,11 @@
 Clone of [Zach Monge](https://github.com/zachmonge)'s [Forest GAN](https://github.com/zachmonge/cyclegan_forest_abstract_art_Duke_zm), cleaned up to accept updates in various Python packages and [PyTorch Cycle-GAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 ### Abstract Corals
+
+<p float="left">
+  <img src="github_example_images/48_4x.png" width="400" />
+  <img src="github_example_images/22_4x.png" width="400" /> 
+</p>
 <p float="left">
   <img src="github_example_images/14.png" width="200" />
   <img src="github_example_images/22.png" width="200" /> 
